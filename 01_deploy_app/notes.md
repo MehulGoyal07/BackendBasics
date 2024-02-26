@@ -1,0 +1,4 @@
+- First step npm init, then we will get package.json
+- To start server with shortcut we can add in script "start": "node index.js"
+- The takes time to get deployed and we can get error in the routing part, thus we have to restart our server and get the afterwards added functionality, therefore we can use nodemon, to not restart the server and by just writing nodemon we can get the desired results
+- For deploying there are some sensitive information, we have to get npm i dotenv package
